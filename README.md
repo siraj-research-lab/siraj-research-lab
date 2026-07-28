@@ -24,8 +24,8 @@
 <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube"/>
 </a>
 
-<a href="https://t.me">
-<img src="https://img.shields.io/badge/Telegram-Community-26A5E4?style=for-the-badge&logo=telegram"/>
+<a href="https://t.me/thescholarsgroup" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-The%20Scholar's%20Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 </p>
 
