@@ -71,18 +71,29 @@ Through research, education, and open-source collaboration, I aspire to contribu
 
 ---
 
-# 🔬 Current Research Interests
+# 🔬 Research & Academic Activities
 
-- Spatial Statistics
-- Bayesian Statistics
-- Machine Learning
-- Artificial Intelligence
-- Data Science
-- Remote Sensing
-- GIS & Geospatial Analytics
-- Population Studies
-- Statistical Computing
-- Environmental Statistics
+### Doctoral Research
+
+My doctoral research at **Assam University, Silchar** focuses on the development of statistical methodologies in **Distribution Theory, Regression Analysis, Stochastic Modelling, and Image Classification**, with emphasis on mathematical rigor, statistical inference, and real-world applications.
+
+---
+
+### Open Science & Research
+
+As the founder of **Siraj Research Lab**, I develop reproducible statistical methodologies, open-source computational resources, and research-driven educational materials that support collaborative learning and scientific advancement.
+
+---
+
+### Teaching & Academic Outreach
+
+Through **The Scholar's Group**, I create lectures, tutorials, and examination-oriented learning resources in **Statistics, Demography, Survey Sampling Theory, Sampling Distributions, UGC-NET Population Studies, GATE Statistics, IIT JAM Statistics, UPSC Indian Statistical Service (ISS), and State Statistical Service Examinations**, helping students and researchers strengthen their theoretical foundations and competitive examination preparation.
+
+---
+
+### Research Vision
+
+My long-term goal is to advance **mathematical statistics, statistical computing, and open science** by developing reproducible research, high-quality educational resources, and open-source tools that contribute to the global statistical community.
 
 ---
 
