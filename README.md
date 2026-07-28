@@ -1,118 +1,242 @@
-<h1 align="center">Hi 👋, I'm Md. Jerajuddin (Mr. Siraj)</h1>
+<h1 align="center">Hi 👋, I'm Md. Siraj (Md. Jerajuddin)</h1>
 
 <h3 align="center">
-PhD Scholar in Statistics | Remote Sensing & Spatial Data Analytics Researcher | Founder, Siraj Research Lab
+PhD Scholar in Statistics | Spatial Statistics & AI Researcher | Founder, Siraj Research Lab
 </h3>
 
 <p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  
-  <a href="mailto:siraj.mail54@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3500&pause=1000&color=1F4E79&center=true&vCenter=true&width=800&lines=PhD+Scholar+in+Statistics;Spatial+Statistics+Researcher;Bayesian+Statistics+%26+Machine+Learning;Remote+Sensing+%26+GIS+Analytics;Founder+%7C+Siraj+Research+Lab;Open+Science+%26+Reproducible+Research"/>
+</p>
 
-  <a href="https://youtube.com" target="_blank">
-    <img src="https://shields.io">
-  </a>
+<p align="center">
+<a href="https://www.linkedin.com/in/mohd-jerajuddin-b8926084">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
-  <a href="https://t.me" target="_blank">
-    <img src="https://shields.io">
-  </a>
+<a href="mailto:siraj.mail54@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://www.youtube.com/c/TheScholarsGroup">
+<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="https://t.me">
+<img src="https://img.shields.io/badge/Telegram-Community-26A5E4?style=for-the-badge&logo=telegram"/>
+</a>
 </p>
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
-### PhD Scholar in Statistics
-**Research Domain:** Advanced Spatial Statistics, Bayesian Inference, and Deep Learning applications in Population Studies.
+### PhD in Statistics *(2025 – Present)*
+**Assam University, Silchar**
 
----
+Research Areas
 
-## 👨‍🔬 About Me
-
-I am a PhD Scholar in Statistics building **Siraj Research Lab**. My focus is bridging the gap between mathematical statistical theories and high-dimensional geospatial datasets. 
-
-I develop reproducible open-source architectures, process multi-spectral earth observation data, and engineer machine learning frameworks tailored for remote sensing, spatial demography, and public policy evaluation.
-
----
-
-## 🌿 Current Research Focus
-
-### Spatial and Bayesian Architecture for Geospatial & Demographic Analysis
-
-This core research framework leverages complex Bayesian modeling and satellite observations to map, analyze, and forecast key ecological and population indexes.
-
-#### Methods Used
-
-- Google Earth Engine (GEE) API
-- Bayesian Hierarchical Modeling
-- Spatial Autoregressive Models
-- Machine Learning Implementations
-- Time Series Projections
-
-#### Key Components
-
-✔ Spatial Autocorrelation & Trend Tracking
-
-✔ Environmental Modeling & Index Isolation
-
-✔ Dynamic Demographic Projections
-
-✔ Algorithmic Validation Using Multi-Sensor Data
+- Spatial Statistics
+- Bayesian Statistics
+- Machine Learning
+- Artificial Intelligence
+- Population Studies
+- Remote Sensing
 
 ---
 
-## 🛠 Technical Skills & Tooling
+### M.A. Statistics *(2010 – 2012)*
 
-### Programming
-
-`Python` `R` `SQL` `Google Earth Engine (JavaScript / Python API)`
-
-### GIS & Remote Sensing
-
-`QGIS` `ArcGIS` `Satellite Image Processing` `Spatial Econometrics`
-
-### Data Analytics & Business Intelligence
-
-`Power BI` `Microsoft Excel` `Data Pipeline Engineering`
-
-### Statistical Domains
-
-`Bayesian Inference` `Spatial Statistics` `Multivariate Analysis` `Population Studies` `Machine Learning` `Artificial Intelligence` `UGC NET Preparation Resources`
+**Banaras Hindu University (BHU), Varanasi**
 
 ---
 
-## 📂 Featured Research & Open Source Projects
+### B.A. Statistics with Mathematics *(2005 – 2008)*
 
-### 📡 Geospatial Analysis Frameworks
-Advanced implementations using Python and Google Earth Engine for environmental modeling, land assessment, and feature extraction.
-
-### 📊 Python & R for Statistics
-Comprehensive open-source code notebooks covering multivariate analysis, mathematical optimization, and statistical modeling workflows.
-
-### 📝 UGC NET Statistics & Population Studies Notes
-Curated educational materials, mathematical proofs, and analytical lecture files serving **The Scholar's Group** academic community.
+**Mahatma Gandhi Kashi Vidyapith (MGKVP), Varanasi**
 
 ---
 
-## 📫 Connect With Me
+# 👨‍🔬 About Me
 
-📧 Email: **siraj.mail54@gmail.com**
+I am currently pursuing a **PhD in Statistics** at **Assam University, Silchar**.
 
-💼 LinkedIn:  
-https://linkedin.com
+With **10+ years of professional experience** across public and private sector organizations, I have worked in statistical analysis, research, data management, project execution and analytical reporting.
 
-📺 YouTube Channel:  
-https://youtube.com
+I founded **Siraj Research Lab** with the vision of promoting **Open Science**, reproducible research and high-quality educational resources in Statistics, Data Science, Artificial Intelligence and Geospatial Analytics.
 
-📱 Telegram Community:  
+My research focuses on bridging mathematical statistics with modern machine learning and earth observation technologies.
+
+---
+
+# 🔬 Current Research Interests
+
+- Spatial Statistics
+- Bayesian Statistics
+- Machine Learning
+- Artificial Intelligence
+- Data Science
+- Remote Sensing
+- GIS & Geospatial Analytics
+- Population Studies
+- Statistical Computing
+- Environmental Statistics
+
+---
+
+# 💼 Professional Experience
+
+### 10+ Years of Professional Experience
+
+Experience across
+
+- Public Sector Organizations
+- Private Sector Organizations
+
+Areas of expertise
+
+- Statistical Analysis
+- Data Analytics
+- Research Methodology
+- Data Management
+- Reporting & Documentation
+- GIS & Spatial Analytics
+- Machine Learning Applications
+- Project Coordination
+
+---
+
+# 🛠 Technical Skills
+
+## Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=flat-square)
+
+---
+
+## Statistics
+
+- Bayesian Statistics
+- Spatial Statistics
+- Multivariate Analysis
+- Regression Analysis
+- Time Series
+- Sampling Theory
+- Probability Theory
+
+---
+
+## GIS & Remote Sensing
+
+- ArcGIS
+- QGIS
+- Google Earth Engine
+- Satellite Image Processing
+- Spatial Modelling
+
+---
+
+## Data Analytics
+
+- Power BI
+- Microsoft Excel
+- Data Visualization
+- Dashboard Development
+
+---
+
+# 📂 Featured Projects
+
+### 📊 Statistics using Python & R
+
+Open-source implementations of statistical models, hypothesis testing, Bayesian analysis and visualization.
+
+---
+
+### 🌍 Remote Sensing & GIS
+
+Google Earth Engine based workflows for environmental monitoring, land-use analysis and spatial modelling.
+
+---
+
+### 🤖 Machine Learning
+
+Research-oriented machine learning implementations for statistical prediction and geospatial applications.
+
+---
+
+### 📚 Educational Resources
+
+UGC NET Statistics
+
+Population Studies
+
+Mathematical Statistics
+
+Research Methodology
+
+Lecture Notes
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=siraj-research-lab&show_icons=true&theme=default&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraj-research-lab&layout=compact&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=siraj-research-lab&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+siraj.mail54@gmail.com
+
+---
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/mohd-jerajuddin-b8926084
+
+---
+
+📺 **YouTube**
+
+https://youtube.com/c/TheScholarsGroup
+
+---
+
+📱 **Telegram**
+
 https://t.me
 
 ---
 
+# 🌟 Vision
+
+> Advancing Open Science through Mathematical Statistics, Artificial Intelligence, Data Science, Spatial Analytics and Reproducible Research.
+
+---
+
 <p align="center">
-Advancing open science through mathematical rigor, geospatial innovation, and institutional open-source resources.
+
+<b>Siraj Research Lab</b>
+
+<br>
+
+Statistics • Data Science • Artificial Intelligence • GIS • Remote Sensing • Open Science
+
 </p>
