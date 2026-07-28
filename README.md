@@ -1,31 +1,26 @@
-<div align="center">
+# Hi 👋, I'm Md. Siraj (Md. Jerajuddin)
 
-<!-- INSTITUTIONAL BRAND HEADER -->
-<h1>Siraj Research Lab</h1>
-<p><strong>Computational Statistics • Data Science • Machine Learning • Agricultural Statistics • Population Studies • Public Health </strong></p>
-<p><em>Led by Md. Siraj (Md. Jerajuddin), PhD Scholar in Statistics</em></p>
+### PhD Scholar in Statistics | Remote Sensing & Spatial Data Analytics Researcher
+**Founder, Siraj Research Lab • Computational Statistician • Educator**
+
+<p align="left">
+  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="mailto:siraj.mail54@gmail.com"><img src="https://shields.io" alt="Email"></a>
+  <a href="https://youtube.com" target="_blank"><img src="https://shields.io" alt="YouTube"></a>
+  <a href="https://t.me/thescholarsgroup" target="_blank"><img src="https://shields.io" alt="Telegram"></a>
+</p>
 
 ---
 
-<!-- ACADEMIC BADGES -->
-<a href="https://orcid.org"><img src="https://shields.io" alt="ORCID"></a>
-<a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-<a href="https://github.com"><img src="https://shields.io" alt="GitHub"></a>
+## 🎓 Education
 
-</div>
+### Aligarh Muslim University (AMU)
+*   **PhD Scholar in Statistics**
+*   *Research Focus:* Spatial Statistics, Bayesian Inference, and Geospatial Analytics.
 
-<br />
+---
 
-## 🏛️ About The Lab
-The **Siraj Research Lab** bridges advanced mathematical statistics with domain-specific applications in remote sensing, GIS, and population studies. Our focus is developing reproducible open-source frameworks, processing high-dimensional spatial datasets, and building rigorous machine learning models tailored for geospatial analytics and demographic research.
-
-*   **Current Focus:** Developing Bayesian and spatial statistical architectures for environmental and population workflows.
-*   **Core Philosophy:** Open science, algorithmic transparency, and mathematical rigor.
-
-<br />
-
-## 🔬 Primary Research Fields
-- **Mathematical Frameworks:** Bayesian Inference, Spatial Statistics, Multivariate Analysis.
-- **Geospatial & Earth Observation:** Remote Sensing, Google Earth Engine (GEE), GIS Analytics.
-- **Applied AI:** Deep Learning for Geospatial Data, Statistical Machine Learning.
-- **Demographics:** Population Dynamics, Policy Evaluation, Spatial Demography.
+## 🔬 Research Interests
+*   **Methodological:** Bayesian Statistics | Spatial Statistics | Multivariate Analysis
+*   **Computational:** Machine Learning | Deep Learning | Artificial Intelligence
+*   **Applied:** Remote Sensing | GIS | GeoSpatial Analytics | Population Studies
