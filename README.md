@@ -30,32 +30,29 @@
 </p>
 
 ---
-
 # 🎓 Education
 
 ## PhD in Statistics *(2025 – Present)*
 **Assam University, Silchar, Assam, India**
 
-**Research Areas**
+**Research Focus**
 
-- Distribution Theory
-- Regression Analysis
-- Stochastic Modelling
-- Image Classification
+My doctoral research focuses on **Distribution Theory, Regression Analysis, Stochastic Modelling, and Statistical Approaches for Image Classification**, with an emphasis on developing mathematically rigorous methods for contemporary statistical and data-driven applications.
 
 ---
 
 ## M.A. in Statistics *(2010 – 2012)*
 **Banaras Hindu University (BHU), Varanasi, Uttar Pradesh**
 
-During my postgraduate studies, I built a strong foundation in **Probability Theory, Statistical Inference, Distribution Theory, Regression Analysis, Multivariate Statistics, Stochastic Processes, Sampling Theory, and Experimental Design**. The curriculum emphasized mathematical reasoning, statistical modelling, and data analysis techniques for research and real-world applications.
+My postgraduate education provided advanced training in **Probability Theory, Statistical Inference, Distribution Theory, Regression Analysis, Multivariate Statistics, Stochastic Processes, Sampling Theory, and Experimental Design**. This programme strengthened my analytical thinking and research-oriented approach to statistical modelling and quantitative analysis.
 
 ---
 
 ## B.A. in Statistics with Mathematics *(2005 – 2008)*
 **Mahatma Gandhi Kashi Vidyapith (MGKVP), Varanasi, Uttar Pradesh**
 
-My undergraduate studies established a solid background in **Statistics and Mathematics**, covering probability, statistical methods, calculus, linear algebra, differential equations, and analytical problem-solving. This academic training provided the mathematical foundation for advanced studies in Statistics and quantitative research.
+My undergraduate studies established a comprehensive foundation in **Statistics and Mathematics**, with emphasis on probability, statistical methods, calculus, linear algebra, differential equations, and mathematical reasoning. This academic background laid the groundwork for advanced studies in Statistics and the development of strong quantitative and analytical problem-solving skills.
+
 ---
 
 # 👨‍🔬 About Me
