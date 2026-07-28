@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Siraj (Md. Jerajuddin)</h1>
+<h1 align="center">Hi 👋, I'm Md. Jerajuddin (Mr. Siraj)</h1>
 
 <h3 align="center">
 PhD Scholar in Statistics | Remote Sensing & Spatial Data Analytics Researcher | Founder, Siraj Research Lab
