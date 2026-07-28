@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Siraj (Md. Jerajuddin)</h1>
+<h1 align="center">Hi 👋, I'm Md. Jerajuddin (Mr. Siraj)</h1>
 
 <h3 align="center">
 🎓 PhD Scholar in Statistics • 🌍 Geo-Spatial Analytics & Distribution Theory Researcher • 🧠 Bayesian & Stochastic Modelling • 🏛 Founder, Siraj Research Lab • 🎥 Open Education @ The Scholar's Group
