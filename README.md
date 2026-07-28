@@ -209,7 +209,6 @@ An academic initiative dedicated to promoting **Open Science**, **Reproducible R
 </p>
 
 
-
 ---
 
 <p align="center">
