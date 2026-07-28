@@ -2,7 +2,7 @@
 
 <!-- INSTITUTIONAL BRAND HEADER -->
 <h1>Siraj Research Lab</h1>
-<p><strong>Computational Statistics • Geospatial Data Science • Machine Learning</strong></p>
+<p><strong>Computational Statistics • Data Science • Machine Learning • Agricultural Statistics • Population Studies • Public Health </strong></p>
 <p><em>Led by Md. Siraj (Md. Jerajuddin), PhD Scholar in Statistics</em></p>
 
 ---
