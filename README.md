@@ -57,7 +57,7 @@ My undergraduate studies established a comprehensive foundation in **Statistics 
 
 # 👨‍🔬 About Me
 
-I am a **PhD Scholar in Statistics** at **Assam University, Silchar**, with research interests in **Distribution Theory, Regression Analysis, Stochastic Modelling, Image Classification, and Geo-Spatial Analytics**.
+I am a **PhD Scholar in Statistics** at **Assam University, Silchar**, with research interests in **Distribution Theory, Regression Analysis, Stochastic Modelling, and Image Classification**.
 
 I have **qualified GATE Mathematics** and **UGC-NET in Population Studies**, reflecting a strong academic foundation in mathematical sciences and interdisciplinary research.
 
@@ -65,8 +65,7 @@ With over **10 years of professional experience** across the public and private 
 
 As the founder of **Siraj Research Lab**, I am committed to advancing **Open Science**, promoting reproducible research, and developing open-source resources in Statistics, Geospatial Analytics, and Statistical Computing.
 
-Beyond research, I am the creator of **The Scholar's Group**, an educational platform where I share lectures, tutorials, and learning resources in **Statistics, Population Studies, GIS, Remote Sensing, and Research Methodology** to support students, researchers, and competitive examination aspirants.
-
+Beyond research, I am the creator of **The Scholar's Group**, an educational initiative dedicated to promoting excellence in **Statistics and Population Studies**. Through this platform, I share lectures, tutorials, concept-based discussions, and examination-oriented learning resources for **UGC-NET Population Studies, GATE Statistics, GATE Statistics, IIT JAM Statistics, UPSC Indian Statistical Service (ISS), State Statistical Service Examinations**, and other statistics-related competitive examinations, supporting students, researchers, and aspiring statisticians across India.
 Through research, education, and open-source collaboration, I aspire to contribute to the global statistical community and make quality statistical education more accessible.
 
 ---
