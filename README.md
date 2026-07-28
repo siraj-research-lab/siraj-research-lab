@@ -166,17 +166,16 @@ An academic initiative dedicated to promoting **Open Science**, **Reproducible R
 # 📈 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=siraj-research-lab&show_icons=true&theme=default&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraj-research-lab&layout=compact&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=siraj-research-lab&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraj-research-lab&layout=compact&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=siraj-research-lab&hide_border=true&border_radius=10"/>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=siraj-research-lab&hide_border=true"/>
-
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siraj-research-lab&theme=default"/>
 </p>
 
 ---
