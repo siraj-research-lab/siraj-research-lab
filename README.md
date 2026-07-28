@@ -38,12 +38,10 @@
 
 Research Areas
 
-- Spatial Statistics
-- Bayesian Statistics
-- Machine Learning
-- Artificial Intelligence
-- Population Studies
-- Remote Sensing
+- Distribution Theory
+- Regression Analysis
+- Stochastic Modelling
+- Image Classification
 
 ---
 
