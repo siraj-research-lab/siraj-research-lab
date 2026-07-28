@@ -108,13 +108,13 @@ My professional experience has enabled me to apply statistical methods in real-w
 <p align="center">
 
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPSS-1261A0?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/IBM%20SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearthengine&logoColor=white"/>
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArcGIS-0079C1?style=for-the-badge&logo=esri&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArcGIS%20Pro-0079C1?style=for-the-badge&logo=esri&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 
 </p>
 
