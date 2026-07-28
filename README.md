@@ -102,57 +102,33 @@ My long-term goal is to advance **mathematical statistics, statistical computing
 With **more than 10 years of professional experience** across the **public and private sectors**, I have contributed to multidisciplinary projects involving statistical research, data analytics, survey operations, monitoring & evaluation, and evidence-based decision support.
 
 My professional experience has enabled me to apply statistical methods in real-world environments, integrating quantitative analysis with policy, planning, and research to support informed decision-making across diverse domains.
-
-### Areas of Professional Expertise
-
-- Statistical Analysis & Data Interpretation
-- Applied Statistical Modelling
-- Survey Design & Sampling Methodology
-- Demographic & Population Data Analysis
-- Monitoring, Evaluation & Impact Assessment
-- Statistical Computing (R & Python)
-- Data Management & Quality Assurance
-- Research Methodology & Technical Documentation
-- Geo-Spatial Data Analysis & Image Classification
-- Project Planning & Technical Coordination
-
 ---
-🧮 Statistical Computing
-────────────────────────
-R • Python • SPSS • Google Earth Engine
+# 🛠 Research & Technical Expertise
 
-📊 Statistical Methods
-────────────────────────
-Distribution Theory
-Bayesian Statistics
-Regression Analysis
-Stochastic Modelling
-Survey Sampling
-Sampling Distributions
+<p align="center">
 
-🌍 Geospatial Analytics
-────────────────────────
-GIS
-ArcGIS
-ArcGIS Pro
-QGIS
-Google Earth Engine
-Image Classification
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPSS-1261A0?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge"/>
 
-📈 Data Analysis
-────────────────────────
-Microsoft Excel
-Statistical Data Analysis
-Data Visualization
-EDA
+<br>
 
-📝 Research Skills
-────────────────────────
-Research Methodology
-Scientific Writing
-Technical Documentation
-Reproducible Research
-Academic Content Development
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
+
+| **Domain** | **Expertise** |
+|:-----------|:--------------|
+| **🧮 Statistical Computing** | **R**, **Python**, **IBM SPSS Statistics**, **Google Earth Engine (GEE)** |
+| **📊 Statistical Methods** | Probability Theory, Distribution Theory, Statistical Inference, Bayesian Statistics, Regression Analysis, Stochastic Modelling, Survey Sampling Theory, Sampling Distributions, Multivariate Statistical Analysis |
+| **👥 Population Studies** | Demography, Population Studies, Population Analysis, Fertility & Mortality Analysis |
+| **🌍 Geospatial Analytics** | Geographic Information Systems (GIS), Spatial Statistics, ArcGIS, ArcGIS Pro, QGIS, Google Earth Engine (GEE), Image Classification, Spatial Data Analysis |
+| **📈 Data Analysis** | Microsoft Excel, Statistical Data Analysis, Exploratory Data Analysis (EDA), Data Visualization |
+| **📝 Research Skills** | Research Methodology, Scientific Writing, Technical Documentation, Reproducible Research, Open-Source Research, Academic Content Development |
 ---
 
 # 📂 Featured Projects
