@@ -163,23 +163,7 @@ Development of open educational resources, lecture notes, tutorials, solved exam
 An academic initiative dedicated to promoting **Open Science**, **Reproducible Research**, **Statistical Computing**, and **Open Educational Resources** through collaborative research, open-source projects, and scientific knowledge dissemination.
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-  <a href="https://github.com/siraj-research-lab">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=siraj-research-lab&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=default" />
-  </a>
-
-  <a href="https://github.com/siraj-research-lab">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraj-research-lab&layout=compact&langs_count=8&hide_border=true&theme=default" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/siraj-research-lab">
-    <img width="620" src="https://streak-stats.demolab.com?user=siraj-research-lab&hide_border=true&theme=default" />
-  </a>
-</p>
+# 📈 GitHub Analytics <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=siraj-research-lab&show_icons=true&theme=default&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraj-research-lab&layout=compact&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=siraj-research-lab&hide_border=true"/> </p>
 ---
 
 # 📫 Connect With Me
