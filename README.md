@@ -118,46 +118,16 @@ My professional experience has enabled me to apply statistical methods in real-w
 
 ---
 
-# 🛠 Technical Skills
+# 🛠 Research & Technical Expertise
 
-## Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql)
-![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=flat-square)
-
----
-
-## Statistics
-
-- Bayesian Statistics
-- Spatial Statistics
-- Multivariate Analysis
-- Regression Analysis
-- Time Series
-- Sampling Theory
-- Probability Theory
-
----
-
-## GIS & Remote Sensing
-
-- ArcGIS
-- QGIS
-- Google Earth Engine
-- Satellite Image Processing
-- Spatial Modelling
-
----
-
-## Data Analytics
-
-- Power BI
-- Microsoft Excel
-- Data Visualization
-- Dashboard Development
-
+| Domain | Expertise |
+|---------|-----------|
+| **Statistical Computing** | R, Python, SQL, Google Earth Engine |
+| **Statistical Methods** | Probability Theory, Distribution Theory, Bayesian Statistics, Regression Analysis, Stochastic Modelling, Survey Sampling, Sampling Distributions |
+| **Population Studies** | Demography, Population Studies, Statistical Modelling |
+| **Geospatial Analytics** | GIS, Spatial Statistics, QGIS, ArcGIS, Google Earth Engine, Image Classification |
+| **Data Analytics** | Power BI, Microsoft Excel, Data Visualization, Dashboard Development |
+| **Research Skills** | Research Methodology, Scientific Writing, Technical Documentation, Reproducible Research |
 ---
 
 # 📂 Featured Projects
