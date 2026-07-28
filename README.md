@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Md. Siraj (Md. Jerajuddin)</h1>
 
 <h3 align="center">
-PhD Scholar in Statistics | Spatial Statistics & AI Researcher | Founder, Siraj Research Lab
+🎓 PhD Scholar in Statistics •
+🌍 Geo-Spatial Analytics Researcher •
+📈 Distribution Theory •
+🧠 Bayesian & Stochastic Modelling •
+🏛 Founder, Siraj Research Lab •
+🎥 Open Education @ The Scholar's Group
 </h3>
 
 <p align="center">
