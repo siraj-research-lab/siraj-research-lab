@@ -166,30 +166,43 @@ An academic initiative dedicated to promoting **Open Science**, **Reproducible R
 # 📈 GitHub Analytics <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=siraj-research-lab&show_icons=true&theme=default&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siraj-research-lab&layout=compact&hide_border=true"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=siraj-research-lab&hide_border=true"/> </p>
 ---
 
-# 📫 Connect With Me
+# 📬 Connect With Me
 
-📧 **Email**
+<p align="center">
 
-siraj.mail54@gmail.com
+<a href="mailto:siraj.mail54@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohd-jerajuddin-b8926084/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/c/TheScholarsGroup" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-The%20Scholar's%20Group-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://t.me/thescholarsgroup" target="_blank">
+<img src="https://img.shields.io/badge/Telegram-The%20Scholar's%20Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-💼 **LinkedIn**
+# 🌟 Vision
 
-https://linkedin.com/in/mohd-jerajuddin-b8926084
-
----
-
-📺 **YouTube**
-
-https://youtube.com/c/TheScholarsGroup
+> To advance **Statistical Science**, **Distribution Theory**, **Geo-Spatial Analytics**, and **Open Science** through high-quality research, reproducible methodologies, and freely accessible educational resources that empower students, researchers, and the global scientific community.
 
 ---
 
-📱 **Telegram**
+<p align="center">
 
-https://t.me
+### Siraj Research Lab
 
+**Statistics • Distribution Theory • Bayesian Statistics • Stochastic Modelling • Geo-Spatial Analytics • Population Studies • Open Science**
+
+</p>
 ---
 
 # 🌟 Vision
