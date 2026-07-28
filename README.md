@@ -65,8 +65,9 @@ With over **10 years of professional experience** across the public and private 
 
 As the founder of **Siraj Research Lab**, I am committed to advancing **Open Science**, promoting reproducible research, and developing open-source resources in Statistics, Geospatial Analytics, and Statistical Computing.
 
-Beyond research, I am the creator of **The Scholar's Group**, an educational initiative dedicated to promoting excellence in **Statistics and Population Studies**. Through this platform, I share lectures, tutorials, concept-based discussions, and examination-oriented learning resources for **UGC-NET Population Studies, GATE Statistics, IIT JAM Statistics, UPSC Indian Statistical Service (ISS), State Statistical Service Examinations**, and other statistics-related competitive examinations, supporting students, researchers, and aspiring statisticians across India.
-Through research, education, and open-source collaboration, I aspire to contribute to the global statistical community and make quality statistical education more accessible.
+Beyond research, I am the creator of **The Scholar's Group**, an educational initiative dedicated to promoting excellence in **Statistics and Population Studies**. Through this platform, I share lectures, tutorials, concept-based discussions, and examination-oriented learning resources covering **Demography, Survey Sampling Theory, Sampling Distributions, UGC-NET Population Studies, GATE Statistics, IIT JAM Statistics, UPSC Indian Statistical Service (ISS), State Statistical Service Examinations**, and other statistics-related competitive examinations. My mission is to support students, researchers, educators, and aspiring statisticians by making high-quality statistical education accessible through structured and research-oriented learning resources.
+
+Through research, education, and open-source collaboration, I aspire to contribute to the global statistical community while fostering excellence in statistical learning, research, and professional development.
 
 ---
 
