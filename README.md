@@ -117,76 +117,42 @@ My professional experience has enabled me to apply statistical methods in real-w
 - Project Planning & Technical Coordination
 
 ---
+🧮 Statistical Computing
+────────────────────────
+R • Python • SPSS • Google Earth Engine
 
-# 🛠 Research & Technical Expertise
+📊 Statistical Methods
+────────────────────────
+Distribution Theory
+Bayesian Statistics
+Regression Analysis
+Stochastic Modelling
+Survey Sampling
+Sampling Distributions
 
-<p align="center">
+🌍 Geospatial Analytics
+────────────────────────
+GIS
+ArcGIS
+ArcGIS Pro
+QGIS
+Google Earth Engine
+Image Classification
 
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge"/>
+📈 Data Analysis
+────────────────────────
+Microsoft Excel
+Statistical Data Analysis
+Data Visualization
+EDA
 
-<br>
-
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</p>
-
----
-
-### 🧮 Statistical Computing
-
-R • Python • IBM SPSS Statistics • Google Earth Engine
-
----
-
-### 📊 Statistical Methods
-
-- Probability Theory
-- Distribution Theory
-- Bayesian Statistics
-- Regression Analysis
-- Stochastic Modelling
-- Survey Sampling Theory
-- Sampling Distributions
-- Multivariate Statistical Analysis
-
----
-
-### 🌍 Geospatial Analytics
-
-- Geographic Information Systems (GIS)
-- Spatial Statistics
-- Google Earth Engine (GEE)
-- ArcGIS
-- ArcGIS Pro
-- QGIS
-- Image Classification
-- Spatial Data Analysis
-
----
-
-### 📈 Data Analysis & Visualization
-
-- Microsoft Excel
-- Statistical Data Analysis
-- Data Visualization
-- Exploratory Data Analysis (EDA)
-
----
-
-### 📝 Research & Scientific Skills
-
-- Research Methodology
-- Scientific Writing
-- Technical Documentation
-- Reproducible Research
-- Academic Content Development
-- Open-Source Research Workflows
+📝 Research Skills
+────────────────────────
+Research Methodology
+Scientific Writing
+Technical Documentation
+Reproducible Research
+Academic Content Development
 ---
 
 # 📂 Featured Projects
