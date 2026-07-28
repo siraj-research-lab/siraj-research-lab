@@ -99,23 +99,22 @@ My long-term goal is to advance **mathematical statistics, statistical computing
 
 # 💼 Professional Experience
 
-### 10+ Years of Professional Experience
+With **more than 10 years of professional experience** across the **public and private sectors**, I have contributed to multidisciplinary projects involving statistical research, data analytics, survey operations, monitoring & evaluation, and evidence-based decision support.
 
-Experience across
+My professional experience has enabled me to apply statistical methods in real-world environments, integrating quantitative analysis with policy, planning, and research to support informed decision-making across diverse domains.
 
-- Public Sector Organizations
-- Private Sector Organizations
+### Areas of Professional Expertise
 
-Areas of expertise
-
-- Statistical Analysis
-- Data Analytics
-- Research Methodology
-- Data Management
-- Reporting & Documentation
-- GIS & Spatial Analytics
-- Machine Learning Applications
-- Project Coordination
+- Statistical Analysis & Data Interpretation
+- Applied Statistical Modelling
+- Survey Design & Sampling Methodology
+- Demographic & Population Data Analysis
+- Monitoring, Evaluation & Impact Assessment
+- Statistical Computing (R & Python)
+- Data Management & Quality Assurance
+- Research Methodology & Technical Documentation
+- Geo-Spatial Data Analysis & Image Classification
+- Project Planning & Technical Coordination
 
 ---
 
