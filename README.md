@@ -190,33 +190,20 @@ An academic initiative dedicated to promoting **Open Science**, **Reproducible R
 
 ---
 
+---
+
 # 🌟 Vision
 
 > To advance **Statistical Science**, **Distribution Theory**, **Geo-Spatial Analytics**, and **Open Science** through high-quality research, reproducible methodologies, and freely accessible educational resources that empower students, researchers, and the global scientific community.
 
----
-
 <p align="center">
 
-### Siraj Research Lab
+## Siraj Research Lab
 
 **Statistics • Distribution Theory • Bayesian Statistics • Stochastic Modelling • Geo-Spatial Analytics • Population Studies • Open Science**
 
-</p>
----
-
-# 🌟 Vision
-
-> Advancing Open Science through Mathematical Statistics, Artificial Intelligence, Data Science, Spatial Analytics and Reproducible Research.
-
----
-
-<p align="center">
-
-<b>Siraj Research Lab</b>
-
 <br>
 
-Statistics • Data Science • Artificial Intelligence • GIS • Remote Sensing • Open Science
+<i>Advancing Statistics through Research, Education & Open Science.</i>
 
 </p>
