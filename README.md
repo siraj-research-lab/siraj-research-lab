@@ -207,3 +207,21 @@ An academic initiative dedicated to promoting **Open Science**, **Reproducible R
 <i>Advancing Statistics through Research, Education & Open Science.</i>
 
 </p>
+
+
+
+---
+
+<p align="center">
+
+<b>Siraj Research Lab</b>
+
+<br>
+
+<i>Advancing Statistics through Research, Education & Open Science.</i>
+
+<br><br>
+
+© 2026 Siraj Research Lab. All Rights Reserved.
+
+</p>
