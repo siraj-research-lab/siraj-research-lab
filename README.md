@@ -128,38 +128,39 @@ My professional experience has enabled me to apply statistical methods in real-w
 | **📝 Research Skills** | Research Methodology, Scientific Writing, Technical Documentation, Reproducible Research, Open-Source Research, Academic Content Development |
 ---
 
-# 📂 Featured Projects
+# 📂 Featured Research Projects
 
-### 📊 Statistics using Python & R
+### 📊 Statistical Computing & Data Analysis
 
-Open-source implementations of statistical models, hypothesis testing, Bayesian analysis and visualization.
-
----
-
-### 🌍 Remote Sensing & GIS
-
-Google Earth Engine based workflows for environmental monitoring, land-use analysis and spatial modelling.
+Open-source implementations of **Probability Theory, Distribution Theory, Statistical Inference, Regression Analysis, Bayesian Statistics, Stochastic Modelling**, and statistical computing using **R** and **Python** for research, education, and reproducible workflows.
 
 ---
 
-### 🤖 Machine Learning
+### 🌍 Geospatial Analytics & Spatial Statistics
 
-Research-oriented machine learning implementations for statistical prediction and geospatial applications.
+Research-oriented workflows using **Google Earth Engine (GEE), ArcGIS, ArcGIS Pro, and QGIS** for **Spatial Statistics, Geo-Spatial Analytics, Image Classification, Spatial Data Processing**, and evidence-based environmental analysis.
 
 ---
 
-### 📚 Educational Resources
+### 📈 Survey Sampling & Population Studies
 
-UGC NET Statistics
+Academic resources and research implementations covering **Survey Sampling Theory, Sampling Distributions, Demography, Population Studies, Official Statistics**, and quantitative methods for population-based research.
 
-Population Studies
+---
 
-Mathematical Statistics
+### 🎓 Educational Resources
 
-Research Methodology
+Development of open educational resources, lecture notes, tutorials, solved examples, and examination-oriented study materials for:
 
-Lecture Notes
+- UGC-NET Population Studies
+- Mathematical Statistics
+- Research Methodology
 
+---
+
+### 🏛 Siraj Research Lab
+
+An academic initiative dedicated to promoting **Open Science**, **Reproducible Research**, **Statistical Computing**, and **Open Educational Resources** through collaborative research, open-source projects, and scientific knowledge dissemination.
 ---
 
 # 📈 GitHub Analytics
