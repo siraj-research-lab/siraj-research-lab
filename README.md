@@ -120,13 +120,28 @@ My professional experience has enabled me to apply statistical methods in real-w
 
 # 🛠 Research & Technical Expertise
 
-| Domain | Expertise |
-|---------|-----------|
-| **Statistical Computing** | R, Python, SQL, Google Earth Engine |
-| **Statistical Methods** | Probability Theory, Distribution Theory, Bayesian Statistics, Regression Analysis, Stochastic Modelling, Survey Sampling, Sampling Distributions |
+<p align="center">
+
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+<img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+
+</p>
+
+| **Domain** | **Expertise** |
+|------------|---------------|
+| **Statistical Computing** | R, Python, SPSS, Google Earth Engine |
+| **Statistical Methods** | Probability Theory, Distribution Theory, Bayesian Statistics, Regression Analysis, Stochastic Modelling, Survey Sampling Theory, Sampling Distributions |
 | **Population Studies** | Demography, Population Studies, Statistical Modelling |
-| **Geospatial Analytics** | GIS, Spatial Statistics, QGIS, ArcGIS, Google Earth Engine, Image Classification |
-| **Data Analytics** | Power BI, Microsoft Excel, Data Visualization, Dashboard Development |
+| **Geospatial Analytics** | GIS, Spatial Statistics, QGIS, ArcGIS, ArcGIS Pro, Google Earth Engine, Image Classification |
+| **Data Analysis** | Microsoft Excel, Statistical Data Analysis, Data Visualization |
 | **Research Skills** | Research Methodology, Scientific Writing, Technical Documentation, Reproducible Research |
 ---
 
