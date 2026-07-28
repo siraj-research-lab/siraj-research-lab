@@ -59,9 +59,15 @@ My undergraduate studies established a comprehensive foundation in **Statistics 
 
 I am a **PhD Scholar in Statistics** at **Assam University, Silchar**, with research interests in **Distribution Theory, Regression Analysis, Stochastic Modelling, Image Classification, and Geo-Spatial Analytics**.
 
-Over the past **10+ years**, I have worked across public and private sectors on statistical research, survey methodology, data analytics, GIS & Remote Sensing, monitoring & evaluation, and evidence-based decision support. My work integrates statistical theory with real-world applications to address challenges in research, policy, and data-driven decision-making.
+I have **qualified GATE Mathematics** and **UGC-NET in Population Studies**, reflecting a strong academic foundation in mathematical sciences and interdisciplinary research.
 
-As the founder of **Siraj Research Lab**, I am committed to advancing **open science**, promoting reproducible research, and developing freely accessible educational resources in Statistics and Data Science. Through open-source software, research publications, and academic content, I aspire to contribute to the global statistical community while supporting students and researchers.
+With over **10 years of professional experience** across the public and private sectors, I have contributed to statistical research, data analytics, GIS & Remote Sensing, survey methodology, monitoring & evaluation, and evidence-based decision support. My work integrates statistical theory with practical applications to address real-world challenges through data-driven decision-making.
+
+As the founder of **Siraj Research Lab**, I am committed to advancing **Open Science**, promoting reproducible research, and developing open-source resources in Statistics, Geospatial Analytics, and Statistical Computing.
+
+Beyond research, I am the creator of **The Scholar's Group**, an educational platform where I share lectures, tutorials, and learning resources in **Statistics, Population Studies, GIS, Remote Sensing, and Research Methodology** to support students, researchers, and competitive examination aspirants.
+
+Through research, education, and open-source collaboration, I aspire to contribute to the global statistical community and make quality statistical education more accessible.
 
 ---
 
