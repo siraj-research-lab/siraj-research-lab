@@ -48,47 +48,14 @@
 ## M.A. in Statistics *(2010 – 2012)*
 **Banaras Hindu University (BHU), Varanasi, Uttar Pradesh**
 
-**Major Coursework**
-
-- Probability Theory
-- Distribution Theory
-- Statistical Inference
-- Linear Models
-- Regression Analysis
-- Multivariate Analysis
-- Stochastic Processes
-- Sampling Theory
-- Design of Experiments
-- Operations Research
-- Econometrics
-- Demography & Population Studies
-- Statistical Computing
+During my postgraduate studies, I built a strong foundation in **Probability Theory, Statistical Inference, Distribution Theory, Regression Analysis, Multivariate Statistics, Stochastic Processes, Sampling Theory, and Experimental Design**. The curriculum emphasized mathematical reasoning, statistical modelling, and data analysis techniques for research and real-world applications.
 
 ---
 
 ## B.A. in Statistics with Mathematics *(2005 – 2008)*
 **Mahatma Gandhi Kashi Vidyapith (MGKVP), Varanasi, Uttar Pradesh**
 
-**Major Coursework**
-
-### Statistics
-- Descriptive Statistics
-- Probability Theory
-- Statistical Inference
-- Sampling Theory
-- Design of Experiments
-- Demography & Vital Statistics
-- Official Statistics
-- Applied Statistics
-
-### Mathematics
-- Differential Calculus
-- Integral Calculus
-- Differential Equations
-- Linear Algebra
-- Vector Analysis
-- Real Analysis
-- Abstract Algebra
+My undergraduate studies established a solid background in **Statistics and Mathematics**, covering probability, statistical methods, calculus, linear algebra, differential equations, and analytical problem-solving. This academic training provided the mathematical foundation for advanced studies in Statistics and quantitative research.
 ---
 
 # 👨‍🔬 About Me
