@@ -59,13 +59,13 @@ My undergraduate studies established a comprehensive foundation in **Statistics 
 
 I am a **PhD Scholar in Statistics** at **Assam University, Silchar**, with research interests in **Distribution Theory, Regression Analysis, Stochastic Modelling, and Image Classification**.
 
-I have **qualified GATE Mathematics** and **UGC-NET in Population Studies**, reflecting a strong academic foundation in mathematical sciences and interdisciplinary research.
+I have **qualified GATE Mathematics** and **UGC-NET in Population Studies**, reflecting a strong academic foundation in mathematical statistics and interdisciplinary research.
 
 With over **10 years of professional experience** across the public and private sectors, I have contributed to statistical research, data analytics, GIS & Remote Sensing, survey methodology, monitoring & evaluation, and evidence-based decision support. My work integrates statistical theory with practical applications to address real-world challenges through data-driven decision-making.
 
 As the founder of **Siraj Research Lab**, I am committed to advancing **Open Science**, promoting reproducible research, and developing open-source resources in Statistics, Geospatial Analytics, and Statistical Computing.
 
-Beyond research, I am the creator of **The Scholar's Group**, an educational initiative dedicated to promoting excellence in **Statistics and Population Studies**. Through this platform, I share lectures, tutorials, concept-based discussions, and examination-oriented learning resources covering **Demography, Survey Sampling Theory, Sampling Distributions, UGC-NET Population Studies, GATE Statistics, IIT JAM Statistics, UPSC Indian Statistical Service (ISS), State Statistical Service Examinations**, and other statistics-related competitive examinations. My mission is to support students, researchers, educators, and aspiring statisticians by making high-quality statistical education accessible through structured and research-oriented learning resources.
+Beyond research, I am the creator of **The Scholar's Group**, an educational initiative dedicated to promoting excellence in **Statistics and Population Studies**. Through this platform, I share lectures, tutorials, concept-based discussions, and examination-oriented learning resources covering **Demography, Survey Sampling Theory & Distributions, UGC-NET Population Studies, State Statistical Service Examinations**, and other statistics-related competitive examinations. My mission is to support students, researchers, educators, and aspiring learners by making high-quality statistical education accessible through structured and research-oriented learning resources.
 
 Through research, education, and open-source collaboration, I aspire to contribute to the global statistical community while fostering excellence in statistical learning, research, and professional development.
 
