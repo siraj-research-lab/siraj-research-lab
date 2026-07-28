@@ -127,22 +127,66 @@ My professional experience has enabled me to apply statistical methods in real-w
 <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge"/>
 
+<br>
+
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
 <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
 </p>
 
-| **Domain** | **Expertise** |
-|------------|---------------|
-| **Statistical Computing** | R, Python, SPSS, Google Earth Engine |
-| **Statistical Methods** | Probability Theory, Distribution Theory, Bayesian Statistics, Regression Analysis, Stochastic Modelling, Survey Sampling Theory, Sampling Distributions |
-| **Population Studies** | Demography, Population Studies, Statistical Modelling |
-| **Geospatial Analytics** | GIS, Spatial Statistics, QGIS, ArcGIS, ArcGIS Pro, Google Earth Engine, Image Classification |
-| **Data Analysis** | Microsoft Excel, Statistical Data Analysis, Data Visualization |
-| **Research Skills** | Research Methodology, Scientific Writing, Technical Documentation, Reproducible Research |
+---
+
+### 🧮 Statistical Computing
+
+R • Python • IBM SPSS Statistics • Google Earth Engine
+
+---
+
+### 📊 Statistical Methods
+
+- Probability Theory
+- Distribution Theory
+- Bayesian Statistics
+- Regression Analysis
+- Stochastic Modelling
+- Survey Sampling Theory
+- Sampling Distributions
+- Multivariate Statistical Analysis
+
+---
+
+### 🌍 Geospatial Analytics
+
+- Geographic Information Systems (GIS)
+- Spatial Statistics
+- Google Earth Engine (GEE)
+- ArcGIS
+- ArcGIS Pro
+- QGIS
+- Image Classification
+- Spatial Data Analysis
+
+---
+
+### 📈 Data Analysis & Visualization
+
+- Microsoft Excel
+- Statistical Data Analysis
+- Data Visualization
+- Exploratory Data Analysis (EDA)
+
+---
+
+### 📝 Research & Scientific Skills
+
+- Research Methodology
+- Scientific Writing
+- Technical Documentation
+- Reproducible Research
+- Academic Content Development
+- Open-Source Research Workflows
 ---
 
 # 📂 Featured Projects
