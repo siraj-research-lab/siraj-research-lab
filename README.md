@@ -33,9 +33,8 @@
 
 # 🎓 Education
 
-### PhD in Statistics *(2025 – Present)*
-
-**Assam University, Silchar**
+## PhD in Statistics *(2025 – Present)*
+**Assam University, Silchar, Assam, India**
 
 **Research Areas**
 
@@ -43,18 +42,53 @@
 - Regression Analysis
 - Stochastic Modelling
 - Image Classification
----
-
-### M.A. Statistics *(2010 – 2012)*
-
-**Banaras Hindu University (BHU), Varanasi**
 
 ---
 
-### B.A. Statistics with Mathematics *(2005 – 2008)*
+## M.A. in Statistics *(2010 – 2012)*
+**Banaras Hindu University (BHU), Varanasi, Uttar Pradesh**
 
-**Mahatma Gandhi Kashi Vidyapith (MGKVP), Varanasi**
+**Major Coursework**
 
+- Probability Theory
+- Distribution Theory
+- Statistical Inference
+- Linear Models
+- Regression Analysis
+- Multivariate Analysis
+- Stochastic Processes
+- Sampling Theory
+- Design of Experiments
+- Operations Research
+- Econometrics
+- Demography & Population Studies
+- Statistical Computing
+
+---
+
+## B.A. in Statistics with Mathematics *(2005 – 2008)*
+**Mahatma Gandhi Kashi Vidyapith (MGKVP), Varanasi, Uttar Pradesh**
+
+**Major Coursework**
+
+### Statistics
+- Descriptive Statistics
+- Probability Theory
+- Statistical Inference
+- Sampling Theory
+- Design of Experiments
+- Demography & Vital Statistics
+- Official Statistics
+- Applied Statistics
+
+### Mathematics
+- Differential Calculus
+- Integral Calculus
+- Differential Equations
+- Linear Algebra
+- Vector Analysis
+- Real Analysis
+- Abstract Algebra
 ---
 
 # 👨‍🔬 About Me
