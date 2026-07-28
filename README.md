@@ -1,16 +1,14 @@
 <h1 align="center">Hi 👋, I'm Md. Siraj (Md. Jerajuddin)</h1>
 
 <h3 align="center">
-🎓 PhD Scholar in Statistics •
-🌍 Geo-Spatial Analytics Researcher •
-📈 Distribution Theory •
-🧠 Bayesian & Stochastic Modelling •
-🏛 Founder, Siraj Research Lab •
-🎥 Open Education @ The Scholar's Group
+🎓 PhD Scholar in Statistics • 🌍 Geo-Spatial Analytics & Distribution Theory Researcher • 🧠 Bayesian & Stochastic Modelling • 🏛 Founder, Siraj Research Lab • 🎥 Open Education @ The Scholar's Group
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3500&pause=1000&color=1F4E79&center=true&vCenter=true&width=800&lines=PhD+Scholar+in+Statistics;Spatial+Statistics+Researcher;Bayesian+Statistics+%26+Machine+Learning;Remote+Sensing+%26+GIS+Analytics;Founder+%7C+Siraj+Research+Lab;Open+Science+%26+Reproducible+Research"/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3500&pause=1000&color=1F4E79&center=true&vCenter=true&width=950&lines=PhD+Scholar+in+Statistics;Geo-Spatial+Analytics+%26+Distribution+Theory+Researcher;Bayesian+%26+Stochastic+Modelling;Artificial+Intelligence+%26+Machine+Learning;Founder+%7C+Siraj+Research+Lab;Open+Education+%40+The+Scholar%27s+Group;Open+Science+%26+Reproducible+Research"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
