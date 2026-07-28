@@ -6,7 +6,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3500&pause=1000&color=1F4E79&center=true&vCenter=true&width=950&lines=PhD+Scholar+in+Statistics;Geo-Spatial+Analytics+%26+Distribution+Theory+Researcher;Bayesian+%26+Stochastic+Modelling;Founder+%7C+Siraj+Research+Lab;Open+Education+%40+The+Scholar%27s+Group;Open+Science+%26+Reproducible+Research"
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=22&duration=3500&pause=1000&color=1F4E79&center=true&vCenter=true&width=950&lines=PhD+Scholar+in+Statistics+(Assam+University);Statistician+%7C+Researcher+%7C+Educator;Geo-Spatial+Analytics+%26+Distribution+Theory;Founder+%7C+Siraj+Research+Lab;Open+Education+%40+YouTube+(The+Scholar%27s+Group);Open+Science+%26+Reproducible+Research"
     alt="Typing SVG"
   />
 </p>
