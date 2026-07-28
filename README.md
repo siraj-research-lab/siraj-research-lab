@@ -111,9 +111,6 @@ My professional experience has enabled me to apply statistical methods in real-w
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SPSS-1261A0?style=for-the-badge&logo=ibm&logoColor=white"/>
 <img src="https://img.shields.io/badge/Google%20Earth%20Engine-34A853?style=for-the-badge"/>
-
-<br>
-
 <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
 <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ArcGIS%20Pro-2C7AC3?style=for-the-badge"/>
