@@ -57,13 +57,11 @@ My undergraduate studies established a comprehensive foundation in **Statistics 
 
 # 👨‍🔬 About Me
 
-I am currently pursuing a **PhD in Statistics** at **Assam University, Silchar**.
+I am a **PhD Scholar in Statistics** at **Assam University, Silchar**, with research interests in **Distribution Theory, Regression Analysis, Stochastic Modelling, Image Classification, and Geo-Spatial Analytics**.
 
-With **10+ years of professional experience** across public and private sector organizations, I have worked in statistical analysis, research, data management, project execution and analytical reporting.
+Over the past **10+ years**, I have worked across public and private sectors on statistical research, survey methodology, data analytics, GIS & Remote Sensing, monitoring & evaluation, and evidence-based decision support. My work integrates statistical theory with real-world applications to address challenges in research, policy, and data-driven decision-making.
 
-I founded **Siraj Research Lab** with the vision of promoting **Open Science**, reproducible research and high-quality educational resources in Statistics, Data Science, Artificial Intelligence and Geospatial Analytics.
-
-My research focuses on bridging mathematical statistics with modern machine learning and earth observation technologies.
+As the founder of **Siraj Research Lab**, I am committed to advancing **open science**, promoting reproducible research, and developing freely accessible educational resources in Statistics and Data Science. Through open-source software, research publications, and academic content, I aspire to contribute to the global statistical community while supporting students and researchers.
 
 ---
 
