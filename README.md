@@ -87,7 +87,7 @@ As the founder of **Siraj Research Lab**, I develop reproducible statistical met
 
 ### Teaching & Academic Outreach
 
-Through **The Scholar's Group**, I create lectures, tutorials, and examination-oriented learning resources in **Statistics, Demography, Survey Sampling Theory, Sampling Distributions, UGC-NET Population Studies, GATE Statistics, IIT JAM Statistics, UPSC Indian Statistical Service (ISS), and State Statistical Service Examinations**, helping students and researchers strengthen their theoretical foundations and competitive examination preparation.
+Through **The Scholar's Group**, I create lectures, tutorials, and examination-oriented learning resources in **Statistics, Demography, Survey Sampling Theory & Distributions, UGC-NET Population Studies**, helping students and researchers strengthen their theoretical foundations and competitive examination preparation.
 
 ---
 
